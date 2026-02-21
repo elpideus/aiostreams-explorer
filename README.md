@@ -1,6 +1,6 @@
 # AIOStreams Explorer
 
-A modern React + TypeScript frontend for searching and browsing torrent streams from an [AIOStreams](https://github.com/example/aiostreams) backend. It uses TMDB to fetch movie and TV series metadata, then displays available torrents with rich filtering and sorting options.
+A modern React + TypeScript frontend for searching and browsing torrent streams from an [AIOStreams](https://github.com/Viren070/AIOStreams) backend. It uses TMDB to fetch movie and TV series metadata, then displays available torrents with rich filtering and sorting options.
 
 ![Screenshot placeholder](./.github/images/zootopia_search_screenshot.png)
 
